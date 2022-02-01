@@ -21,4 +21,12 @@ Variations of this include reading Professor Fedele's brainwaves as he writes eq
 
 During performance, I set-up the signal flow as such: the signal from Muse is connected by Bluetooth to one's personal device. This signal is ported into Supercollider through the local network. Supercollider is an audio synthesis platform on which I wrote the code to translate the signal into music. This signal is then sent through a MIDI-bus to Ableton which generates selected soundscapes.
 
+There are two versions of the code here:
+
+One where the music depends on the amplitude of the brainwaves of a single person wearing a Muse.
+
+Another where the music depends on the harmony of the brainwaves of two people who are each wearing a Muse.
+
+Here is a link to our most recent performance: https://www.youtube.com/watch?v=jU2PflnULj0
+
 This is a fun project, and we are curious and excited to see how it keeps evolving!
