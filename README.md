@@ -27,6 +27,6 @@ One where the music depends on the amplitude of the brainwaves of a single perso
 
 Another where the music depends on the harmony of the brainwaves of two people who are each wearing a Muse.
 
-Here is a link to our most recent performance: https://www.youtube.com/watch?v=jU2PflnULj0 I am in the middle, Dr. Fedele is writing equations on the board to the right, and Rachel is drawing a painting to the left.
+Here is a link to our most recent performance: https://www.youtube.com/watch?v=jU2PflnULj0 I am in the middle, Dr. Fedele is writing equations on the board to the left, and Rachel is drawing a painting to the right.
 
 This is a fun project, and we are curious and excited to see how it keeps evolving!
