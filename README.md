@@ -29,4 +29,6 @@ Another where the music depends on the harmony of the brainwaves of two people w
 
 Here is a link to our most recent performance: https://www.youtube.com/watch?v=jU2PflnULj0 I am in the middle.
 
+I've also added some audio samples of the latest iteration.
+
 This is a fun project, and we are curious and excited to see how it keeps evolving!
