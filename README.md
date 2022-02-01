@@ -1,6 +1,6 @@
 # Brain-Computer-Interface-Music-Generation
 
-This is code from an ongoing multi-disciplinary collaborative project through Georgia Tech.
+This is code from an ongoing multi-disciplinary collaborative project through Georgia Tech starting November 2021 and continuing to present.
 
 I am working with the following people:
 
