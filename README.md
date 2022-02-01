@@ -3,10 +3,15 @@
 This is code from an ongoing multi-disciplinary collaborative project through Georgia Tech.
 
 I am working with the following people:
+
 Professor - Dr. Francesco Fedele https://ce.gatech.edu/node/511
+
 Music Technologist - Dr. Mike Winters https://mikewinters.io/about-me/
+
 Artist - Rachel Grant https://www.rachelgrantstudio.com/
+
 Dancer - Nadya Zeitlin https://www.nadyazeitlin.com/
+
 
 We are innovating new ways to integrate science and art by using a consumer-grade EEG (Muse https://choosemuse.com/) to convert a person's brainwaves into music.
 
