@@ -1,4 +1,4 @@
-# Brain-Computer-Interface-Music-Generation
+# Brain-Wave-Music-Generation
 
 This is an ongoing multi-disciplinary collaborative project through Georgia Tech starting November 2021 and continuing to present.
 
