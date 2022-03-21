@@ -26,7 +26,10 @@ One where the music depends on the amplitude of the brainwaves of a single perso
 
 Another where the music depends on the harmony of the brainwaves of two people who are each wearing a Muse.
 
-Here is our most recent performance: https://www.youtube.com/watch?v=jU2PflnULj0
+Here are some clips from recent performances: 
+
+https://www.youtube.com/watch?v=jU2PflnULj0
+https://www.youtube.com/shorts/jL8k0ehb7eQ
 
 I've also added some audio samples of the latest iteration :)
 
