@@ -13,7 +13,7 @@ Music Technologist - Dr. Mike Winters https://mikewinters.io/about-me/
 
 Painter - Rachel Grant https://www.rachelgrantstudio.com/
 
-Dancer - Nadya Zeitlin https://www.nadyazeitlin.com/
+Dancer - Bella Dorado https://www.belladorado.com/
 
 
 My role is to convert the raw brainwave data from the Muse into music. I did this by researching what each brainwave means and writing code to deliberately connect each to an appropriate element of the music (such as bass, harmony, melody, etc.).
@@ -22,16 +22,18 @@ During performances, I set up the signal flow as such: the signal from the Muse 
 
 There are two versions of the code here:
 
-One where the music depends on the amplitude of the brainwaves of a single person wearing a Muse.
+One where the intensity of the music depends on the amplitude of the brainwaves of a single person wearing a Muse.
 
-Another where the music depends on the harmony of the brainwaves of two people who are each wearing a Muse.
+Another where the intensity of the music depends on the harmony of the brainwaves of two people who are each wearing a Muse.
 
-Here are some clips from recent performances: 
+Check out our performance here:
+
+https://www.youtube.com/watch?v=ZB7Gk1lVZFM
+
+And here are some past clips: 
 
 https://www.youtube.com/watch?v=jU2PflnULj0
 
 https://www.youtube.com/shorts/jL8k0ehb7eQ
 
 I've also added some audio samples of the latest iteration :)
-
-This is a fun project, and we are curious and excited to see how it keeps evolving!
