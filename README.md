@@ -18,13 +18,15 @@ Dancer - Bella Dorado https://www.belladorado.com/
 
 My role is to convert the raw brainwave data from the Muse into music. I did this by researching what each brainwave means and writing code to deliberately connect each to an appropriate element of the music (such as bass, harmony, melody, etc.).
 
-During performances, I set up the signal flow as such: the signal from the Muse is connected by Bluetooth to one's personal device. This signal is ported into SuperCollider through the local network. SuperCollider is an audio synthesis platform on which I wrote the code to transform the signal into music. This signal is then sent through a MIDI-bus to Ableton which generates selected soundscapes.
+During performances, I set up the signal flow as such: the signal from the Muse is connected by Bluetooth to one's personal device. This signal is sent to SuperCollider through the local network. SuperCollider is an audio synthesis platform on which I wrote the code to transform the signal into music. This signal is then sent through a MIDI-bus to Ableton which generates selected soundscapes.
 
 There are two versions of the code here:
 
-One where the intensity of the music depends on the amplitude of the brainwaves of a single person wearing a Muse.
+med - the intensity of the music depends on the amplitude of the brainwaves of a single person wearing a Muse
 
-Another where the intensity of the music depends on the harmony of the brainwaves of two people who are each wearing a Muse.
+song 2 - the intensity of the music depends on the harmony of the brainwaves of two people who are each wearing a Muse
+
+I've also added some audio samples of each :)
 
 Check out our performance here:
 
@@ -36,4 +38,4 @@ https://www.youtube.com/watch?v=jU2PflnULj0
 
 https://www.youtube.com/shorts/jL8k0ehb7eQ
 
-I've also added some audio samples of the latest iteration :)
+Enjoy!
