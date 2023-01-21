@@ -26,9 +26,7 @@ med - the intensity of the music depends on the amplitude of the brainwaves of a
 
 song 2 - the intensity of the music depends on the harmony of the brainwaves of two people who are each wearing a Muse
 
-I've also added some audio samples of each :)
-
-Check out our performance here:
+I've included an audio sample of med, and be sure to check out our performance here:
 
 https://www.youtube.com/watch?v=ZB7Gk1lVZFM
 
@@ -38,4 +36,4 @@ https://www.youtube.com/watch?v=jU2PflnULj0
 
 https://www.youtube.com/shorts/jL8k0ehb7eQ
 
-Enjoy!
+Enjoy! :)
