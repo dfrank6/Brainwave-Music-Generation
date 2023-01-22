@@ -7,7 +7,7 @@ We are innovating new ways to integrate science and art by using a consumer-grad
 
 I am collaborating with the following people:
 
-Professor - Dr. Francesco Fedele https://ce.gatech.edu/node/511
+Professor - Dr. Francesco Fedele https://ce.gatech.edu/directory/person/francesco-fedele
 
 Music Technologist - Dr. Mike Winters https://mikewinters.io/about-me/
 
