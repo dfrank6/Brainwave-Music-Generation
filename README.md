@@ -15,7 +15,7 @@ Painter - Rachel Grant https://www.rachelgrantstudio.com/
 
 Dancer - Bella Dorado https://www.belladorado.com/
 
-Georgia Tech Neuroscience Student and Painter - Tanisha Chanda 
+Georgia Tech Neuroscience Student and Painter - Tanisha Chanda https://tanishachanda.wixsite.com/portfolio/bio
 
 
 My role is to convert the raw brainwave data from the Muse into music. I did this by researching what each brainwave means and writing code to deliberately connect each to an appropriate element of the music (such as bass, harmony, melody, etc.).
