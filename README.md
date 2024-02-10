@@ -20,7 +20,7 @@ Georgia Tech Neuroscience Student and Painter - Tanisha Chanda https://tanishach
 
 My role is to convert the live brainwave data into music. I did this by researching what each brainwave means and writing code to connect each to an appropriate element of the music (bass, harmony, melody, etc.) using SuperCollider (https://supercollider.github.io/).
 
-During performances, I set up the signal flow as follows: the signal from the Muse is connected by Bluetooth to one's phone. This signal is sent to SuperCollider through over a local network. This signal is then sent through a MIDI-bus to Ableton which generates defined soundscapes.
+During performances, I set up the signal flow as follows: the signal from the Muse is connected by Bluetooth to one's phone. This signal is sent to SuperCollider over a local network. This signal is then sent through a MIDI-bus to Ableton which generates defined soundscapes.
 
 There are two versions of the code here:
 
